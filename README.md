@@ -6,8 +6,8 @@
 <h4 align="left">🛠️ Tecnologías que uso o estoy aprendiendo:</h4>
 <h4 align="left">
 - 💻 Lenguajes: JavaScript, TypeScript, Python, Java, HTML, CSS<br>
-- 🌐 Frameworks y librerías: Angular, Ionic, Node.js, React<br>
-- 🛢️ Bases de datos: MySQL, MongoDB<br>
+- 🌐 Frameworks y librerías: Angular, Ionic, Django, Node.js, React<br>
+- 🛢️ Bases de datos: Firebase, MySQL, MongoDB<br>
 - 📱 Desarrollo móvil: Ionic Framework, Android Studio<br>
 - 🧪 Herramientas y otros: Git, GitHub, Figma, Framer
 </h4>
